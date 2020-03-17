@@ -15,6 +15,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
+					"notebookPath": "/Users/wintellectpass1@outlook.com/Quickstart Notebook",
 					"baseParameters": {
 						"spark.speculation": "true"
 					}
